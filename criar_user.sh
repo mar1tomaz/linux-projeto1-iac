@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rn-rf  'excluir todos os diretorios
+
 
 echo "Criando usuários do sistema...."
 
